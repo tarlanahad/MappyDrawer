@@ -15,3 +15,18 @@ Mappy drawer is a simple library
                 .setRoute(new Route(origin, destination).setPathColor(Color.parseColor("#FFFFFF")))
                 .draw();
 ```
+
+```
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+ ```
+ 
+ ```
+ 	dependencies {
+	        compile 'com.github.tarlanahad:MappyDrawer:1.0'
+	}
+ ```
