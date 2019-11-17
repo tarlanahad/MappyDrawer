@@ -1,7 +1,6 @@
 # MappyDrawer
 
-Mappy drawer is a simple library 
-
+Mappy drawer is a simple library that utilizes Google's Location API to draw a path between two location points.
 ![image](https://github.com/tarlanahad/MappyDrawer/blob/master/asdasd.jpeg)
 
 
